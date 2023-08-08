@@ -1,0 +1,82 @@
+Creating users with usernames ending in a number...
+User user1 created with password: 6FQuuOTCJB
+User user2 created with password: )u!#N14uMs
+User user3 created with password: @C@lAYYQWr
+User user4 created with password: gJ(bzl#PEB
+User user5 created with password: lae993lx5u
+User user6 created with password: x_MJ$h&e&R
+User user7 created with password: UXnxXpd)@0
+User user8 created with password: I=Hi_fcSmf
+User user9 created with password: &G4%H%fBpk
+User user10 created with password: ^2GgCn9ZTu
+User user11 created with password: FxqwBV_d$s
+User user12 created with password: F!T@GyA03O
+User user13 created with password: SFPY+d!yxQ
+User user14 created with password: WPe^qoC8v_
+User user15 created with password: rgO)mMgs_U
+User user16 created with password: TX9gO0pXmP
+User user17 created with password: $kfIx8nWE8
+User user18 created with password: npBA_usOY#
+User user19 created with password: 2G&w!9TH6w
+User user20 created with password: 9IoqAxFoxe
+User user21 created with password: YQDwqb5D*3
+User user22 created with password: n8%NzKQ^TQ
+User user23 created with password: rgopWIf0QQ
+User user24 created with password: *vGQG-Kt(Q
+User user25 created with password: @kJVRw@HAN
+User user26 created with password: +CB*-9v$Kb
+User user27 created with password: GKBl1OURc-
+User user28 created with password: =(D0(otGs*
+User user29 created with password: NHbOng##P3
+User user30 created with password: djcb&ed*B!
+User user31 created with password: MLqL&%PMRU
+User user32 created with password: g&DCNUWN+a
+User user33 created with password: @M5$kzKss0
+User user34 created with password: O-P90sVd9l
+User user35 created with password: lRC5u)%N8E
+User user36 created with password: 0T3aO^OiBX
+User user37 created with password: SU$3hBbE3#
+User user38 created with password: -_*(ZzA0$*
+User user39 created with password: ehdNs8Be)J
+User user40 created with password: oe6M=Mex$3
+User user41 created with password: eYw_yW5o_f
+User user42 created with password: mqKmqXAkeB
+User user43 created with password: P5yeJ9VZcX
+User user44 created with password: RpKVT-&ZeK
+User user45 created with password: =2iTKp_d#(
+User user46 created with password: M4q*g=aU0r
+User user47 created with password: LoGL$aVK6=
+User user48 created with password: gB8Mhxn@MD
+User user49 created with password: B_pub=Vn3Q
+User user50 created with password: -@4W%Z5Ffz
+User user51 created with password: w+aeftxHw%
+User user52 created with password: Br5x7_T@#0
+User user53 created with password: _%Da^XC2Md
+User user54 created with password: acrh+#GUF%
+User user55 created with password: mxJ8p@piX*
+User user56 created with password: WN8F0fsXIZ
+User user57 created with password: SJ8^Cv)@Iw
+User user58 created with password: @=(rIIcgeJ
+User user59 created with password: EEfhhQ1uNi
+User user60 created with password: 5GezpmDVV8
+Install python 3.11 and pip...
+Updating Subscription Management repositories.
+Red Hat Enterprise Linux 8 for x86_64 - AppStre  58 MB/s |  59 MB     00:01    
+Red Hat Enterprise Linux 8 for x86_64 - BaseOS   71 MB/s |  63 MB     00:00    
+Package python3.11-3.11.2-2.el8_8.1.x86_64 is already installed.
+Dependencies resolved.
+Nothing to do.
+Complete!
+Updating Subscription Management repositories.
+Last metadata expiration check: 0:00:06 ago on Tue 08 Aug 2023 07:34:07 PM EDT.
+Package python3.11-devel-3.11.2-2.el8_8.1.x86_64 is already installed.
+Dependencies resolved.
+Nothing to do.
+Complete!
+Updating Subscription Management repositories.
+Last metadata expiration check: 0:00:11 ago on Tue 08 Aug 2023 07:34:07 PM EDT.
+Package python3.11-pip-22.3.1-2.el8.noarch is already installed.
+Dependencies resolved.
+Nothing to do.
+Complete!
+Install python 3.11 and pip completed.
